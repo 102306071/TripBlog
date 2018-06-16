@@ -38,7 +38,7 @@
                 </h2>
               </a>
 
-              <div class="collapse" id="flight">
+              <div class="collapse table-responsive" id="flight">
                 <div class="card card-body">
                   <table class="table">
                     <thead class="thead-dark">
@@ -91,7 +91,7 @@
             
             <!-- 2 住宿資訊-->
             <div>
-              <a data-toggle="collapse" href="#hotel" aria-expanded="false" aria-controls="hotel">
+              <a data-toggle="collapse table-responsive" href="#hotel" aria-expanded="false" aria-controls="hotel">
                 <h2>住宿資訊</h2> 
               </a>
               <div class="collapse" id="hotel">
