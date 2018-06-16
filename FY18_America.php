@@ -38,129 +38,135 @@
                 </h2>
               </a>
 
-              <div class="collapse table-responsive" id="flight">
+              <div class="collapse" id="flight">
                 <div class="card card-body">
-                  <table class="table">
-                    <thead class="thead-dark">
-                      <tr>
-                        <th scope="col">Date</th>
-                        <th scope="col">Airport</th>
-                        <th scope="col">Time</th>
-                        <th scope="col">Flight</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      <tr>
-                        <th scope="row">2018/7/11 <br>(Wed)</th>
-                        <td>台北桃園 (TPE) Terminal 2 ～ <br>
-                          溫哥華 (YVR) Terminal M</td>
-                        <td>15:55 ～ <br>
-                          11:45 (10hr50)</td>
-                        <td>AC018-Air Canada Economy(A)</td>
-                      </tr>
-                      <tr>
-                        <th scope="row">2018/7/12 <br>(Thu)</th>
-                        <td>溫哥華 (YVR) Terminal M ～ <br>
-                          紐瓦克 (EWR) Terminal A</td>
-                        <td>8:45 ～ <br>
-                          16:50 (5hr05)</td>
-                        <td>AC548-Air Canada Economy(A)</td>
-                      </tr>
-                      <tr>
-                        <th scope="row">2018/7/26 <br>(Thu)</th>
-                        <td>波士頓 (BOS) Terminal B ～ <br>
-                          溫哥華 (YVR) Terminal M</td>
-                        <td>18:05 ～ <br>
-                          21:17 (6hr12)</td>
-                        <td>AC533-Air Canada Economy(A)</td>
-                      </tr>
-                      <tr>
-                        <th scope="row">2018/7/27 <br>(Fri)</th>
-                        <td>溫哥華 (YVR) Terminal M ～ <br>
-                          台北桃園 (TPE) Terminal 2 </td>
-                        <td>11:10 ～ <br>
-                          14:15 (12hr05) +1day</td>
-                        <td>AC017-Air Canada Economy(A)</td>
-                      </tr>
+                  <div class="table-responsive">
+                    <table class="table">
+                      <thead class="thead-dark">
+                        <tr>
+                          <th scope="col">Date</th>
+                          <th scope="col">Airport</th>
+                          <th scope="col">Time</th>
+                          <th scope="col">Flight</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <th scope="row">2018/7/11 <br>(Wed)</th>
+                          <td>台北桃園 (TPE) Terminal 2 ～ <br>
+                            溫哥華 (YVR) Terminal M</td>
+                          <td>15:55 ～ <br>
+                            11:45 (10hr50)</td>
+                          <td>AC018-Air Canada Economy(A)</td>
+                        </tr>
+                        <tr>
+                          <th scope="row">2018/7/12 <br>(Thu)</th>
+                          <td>溫哥華 (YVR) Terminal M ～ <br>
+                            紐瓦克 (EWR) Terminal A</td>
+                          <td>8:45 ～ <br>
+                            16:50 (5hr05)</td>
+                          <td>AC548-Air Canada Economy(A)</td>
+                        </tr>
+                        <tr>
+                          <th scope="row">2018/7/26 <br>(Thu)</th>
+                          <td>波士頓 (BOS) Terminal B ～ <br>
+                            溫哥華 (YVR) Terminal M</td>
+                          <td>18:05 ～ <br>
+                            21:17 (6hr12)</td>
+                          <td>AC533-Air Canada Economy(A)</td>
+                        </tr>
+                        <tr>
+                          <th scope="row">2018/7/27 <br>(Fri)</th>
+                          <td>溫哥華 (YVR) Terminal M ～ <br>
+                            台北桃園 (TPE) Terminal 2 </td>
+                          <td>11:10 ～ <br>
+                            14:15 (12hr05) +1day</td>
+                          <td>AC017-Air Canada Economy(A)</td>
+                        </tr>
 
-                    </tbody>
-                  </table>
+                      </tbody>
+                    </table>
+                  </div>
+                  
                 </div>
               </div>  
             </div>
             
             <!-- 2 住宿資訊-->
             <div>
-              <a data-toggle="collapse table-responsive" href="#hotel" aria-expanded="false" aria-controls="hotel">
+              <a data-toggle="collapse" href="#hotel" aria-expanded="false" aria-controls="hotel">
                 <h2>住宿資訊</h2> 
               </a>
               <div class="collapse" id="hotel">
                 <div class="card card-body">
-                  <table class="table">
-                    <thead class="thead-dark">
-                      <tr>
-                        <th scope="col">Date</th>
-                        <th scope="col">Hotel</th>
-                        <th scope="col">Address</th>
-                        <th scope="col">Notes</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      <tr>
-                        <th scope="row">2018/7/11 ~ 2018/7/12</th>
-                        <td>Ramada Limited Vancouver Airport</td>
-                        <td>
-                          <a href="https://goo.gl/maps/DTbSj8TLM5J2" target="_blank">
-                          7188 Westminster Hwy, Richmond, BC, V6X1A1 Canada
-                          </a>
-                        </td>
-                        <td>1 room |  1 night
-                          <a href="file/住宿_0711.pdf" target="_blank">
-                            <i class="fa fa-paperclip fa-1x"></i><br>
-                          </a>
-                        </td>
-                      </tr>
-                      <tr>
-                        <th scope="row">2018/7/12 ~ 2018/7/21</th>
-                        <td>The Local, Long Island City</td>
-                        <td>
-                          <a href="https://goo.gl/maps/8L8kFbypxux" target="_blank">
-                          13-02 44th Avenue, Long Island City, NY, 11101 United States of America
-                          </a>
-                        </td>
-                        <td> 1 room |  9 nights
-                          <a href="file/住宿_0712.pdf" target="_blank">
-                            <i class="fa fa-paperclip fa-1x"></i><br>
-                          </a>
-                        </td>
-                      </tr>
-                      <tr>
-                        <th scope="row">2018/7/14 ~ 2018/7/15</th>
-                        <td>Hostel Buffalo-Niagara</td>
-                        <td>
-                          <a href="https://goo.gl/maps/fw1F17dgCWD2" target="_blank">
-                          667 Main St., Buffalo, NY, 14203 United States of America
-                          </a>
-                        </td>
-                        <td>1 room |  1 night</td>
-                      </tr>
-                      <tr>
-                        <th scope="row">2018/7/21 ~ 2018/7/26</th>
-                        <td>HI Boston, Boston </td>
-                        <td>
-                          <a href="https://goo.gl/maps/FrFjRDV5ZeQ2" target="_blank">
-                          19 Stuart St, Boston, MA, 02116 United States of America
-                          </a>
-                        </td>
-                        <td>1 room |  5 night <br> 
-                          現場支付 US$292.49
-                          <a href="file/住宿_0711.pdf" target="_blank">
-                            <i class="fa fa-paperclip fa-1x"></i><br>
-                          </a> </td>
-                      </tr>
+                  <div class="table-responsive">
+                    <table class="table">
+                      <thead class="thead-dark">
+                        <tr>
+                          <th scope="col">Date</th>
+                          <th scope="col">Hotel</th>
+                          <th scope="col">Address</th>
+                          <th scope="col">Notes</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <th scope="row">2018/7/11 ~ 2018/7/12</th>
+                          <td>Ramada Limited Vancouver Airport</td>
+                          <td>
+                            <a href="https://goo.gl/maps/DTbSj8TLM5J2" target="_blank">
+                            7188 Westminster Hwy, Richmond, BC, V6X1A1 Canada
+                            </a>
+                          </td>
+                          <td>1 room |  1 night
+                            <a href="file/住宿_0711.pdf" target="_blank">
+                              <i class="fa fa-paperclip fa-1x"></i><br>
+                            </a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <th scope="row">2018/7/12 ~ 2018/7/21</th>
+                          <td>The Local, Long Island City</td>
+                          <td>
+                            <a href="https://goo.gl/maps/8L8kFbypxux" target="_blank">
+                            13-02 44th Avenue, Long Island City, NY, 11101 United States of America
+                            </a>
+                          </td>
+                          <td> 1 room |  9 nights
+                            <a href="file/住宿_0712.pdf" target="_blank">
+                              <i class="fa fa-paperclip fa-1x"></i><br>
+                            </a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <th scope="row">2018/7/14 ~ 2018/7/15</th>
+                          <td>Hostel Buffalo-Niagara</td>
+                          <td>
+                            <a href="https://goo.gl/maps/fw1F17dgCWD2" target="_blank">
+                            667 Main St., Buffalo, NY, 14203 United States of America
+                            </a>
+                          </td>
+                          <td>1 room |  1 night</td>
+                        </tr>
+                        <tr>
+                          <th scope="row">2018/7/21 ~ 2018/7/26</th>
+                          <td>HI Boston, Boston </td>
+                          <td>
+                            <a href="https://goo.gl/maps/FrFjRDV5ZeQ2" target="_blank">
+                            19 Stuart St, Boston, MA, 02116 United States of America
+                            </a>
+                          </td>
+                          <td>1 room |  5 night <br> 
+                            現場支付 US$292.49
+                            <a href="file/住宿_0711.pdf" target="_blank">
+                              <i class="fa fa-paperclip fa-1x"></i><br>
+                            </a> </td>
+                        </tr>
 
-                    </tbody>
-                  </table>                
+                      </tbody>
+                    </table>
+                  </div>
+                                  
                 </div>
               </div>               
             </div>
