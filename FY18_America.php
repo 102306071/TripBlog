@@ -12,7 +12,7 @@
           <div class="col-lg-8 col-md-10 mx-auto">
             <div class="post-heading">
               <h1>2018 美東16日</h1>
-              <h2 class="subheading">Vancouver, New York, Niagara, Boston</h2>
+              <h2 class="subheading">New York！<br>Concrete jungle where dreams are made of</h2>
               <span class="meta">Posted by
                 <a href="#">Ernie Y. Wu</a>
                 on July 11, 2018</span>
@@ -146,7 +146,12 @@
                             667 Main St., Buffalo, NY, 14203 United States of America
                             </a>
                           </td>
-                          <td>1 room |  1 night</td>
+                          <td>1 room |  1 night <br>
+                            現場支付 US$36.58
+                            <a href="file/住宿_0714.pdf" target="_blank">
+                              <i class="fa fa-paperclip fa-1x"></i><br>
+                            </a>
+                          </td>
                         </tr>
                         <tr>
                           <th scope="row">2018/7/21 ~ 2018/7/26</th>
@@ -157,7 +162,7 @@
                             </a>
                           </td>
                           <td>1 room |  5 night <br> 
-                            現場支付 US$292.49
+                            現場支付 US$292.49 + $15
                             <a href="file/住宿_0711.pdf" target="_blank">
                               <i class="fa fa-paperclip fa-1x"></i><br>
                             </a> </td>
@@ -276,7 +281,7 @@
                 <div class="card card-body">
                   <h3>Day4</h3>
                   <li>11:15 搭乘Megabus，前往Buffalo
-                      <a href="file/MEGABUS_bookingconfirmation.pdf" target="_blank">
+                      <a href="file/MEGABUS_bookingconfirmation_Buffalo.pdf" target="_blank">
                         <i class="fa fa-paperclip fa-1x"></i><br>
                       </a>                    
                   </li>
@@ -314,7 +319,7 @@
                   </div> 
 
                   <li>22:30 搭乘Megabus，前往New York，預計7/16 8:10抵達
-                    <a href="file/MEGABUS_bookingconfirmation.pdf" target="_blank">
+                    <a href="file/MEGABUS_bookingconfirmation_Bufflao.pdf" target="_blank">
                       <i class="fa fa-paperclip fa-1x"></i><br>
                     </a>  
                   </li>
@@ -345,11 +350,11 @@
                     <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d24188.508833883552!2d-73.97050680030391!3d40.72762234947525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x89c25927fcd001a9%3A0x58cecc0f3f00b577!2zVGhlIExvY2FsIE5ZQywg57SQ57SE57SQ57SE5bee576O5ZyL!3m2!1d40.749595!2d-73.947825!4m5!1s0x89c25bdedbcaf647%3A0x469a1d01423a03f2!2sPeter+Luger+Steak+House%2C+178+Broadway%2C+Brooklyn%2C+NY+11211%E7%BE%8E%E5%9C%8B!3m2!1d40.709818999999996!2d-73.962467!5e0!3m2!1szh-TW!2stw!4v1530692101666" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                   </div>   
 
-                  <li>下午 Soho區、雀兒喜市場</li>
+                  <li>[下午] <br> Soho區、雀兒喜市場</li>
                   <div class="embed-responsive embed-responsive-16by9">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12091.561147798504!2d-74.0061439!3d40.7424396!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7e61762e972dc0a2!2z6ZuA5YWS5Zac5biC5aC0!5e0!3m2!1szh-TW!2stw!4v1530694461627" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                   </div>
-                  <li>晚餐 Shake shack 漢堡 麥迪遜廣場店</li>  
+                  <li>[晚餐] <br> Shake shack 漢堡 麥迪遜廣場店</li>  
                   <div class="embed-responsive embed-responsive-16by9">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12091.561147798504!2d-74.0061439!3d40.7424396!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c258bc949d58cf%3A0x84ac8a2dc2535dc2!2sShake+Shack!5e0!3m2!1szh-TW!2stw!4v1530694483595" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                   </div>                           
@@ -485,7 +490,12 @@
 
               <div class="collapse" id="day11">
                 <div class="card card-body">
-                  <h3>Day11 </h3> 
+                  <h3>Day11 </h3>
+                  <li>12:40 搭乘Megabus，前往Boston
+                      <a href="file/MEGABUS_bookingconfirmation_Boston.pdf" target="_blank">
+                        <i class="fa fa-paperclip fa-1x"></i><br>
+                      </a>                    
+                  </li> 
 
                 </div>
               </div>  
@@ -494,13 +504,14 @@
             <!-- 14 Day12 -->
             <div>
               <a data-toggle="collapse" href="#day12" aria-expanded="false" aria-controls="day12">
-                <h2>Day12
+                <h2>2018/7/22 (Sun)
                 </h2>
               </a>
 
               <div class="collapse" id="day12">
                 <div class="card card-body">
-                  <h3>2018/7/22 (Sun)</h3>                  
+                  <h3>Day12</h3>
+                                    
                 </div>
               </div>  
             </div> 
@@ -562,7 +573,7 @@
             </div> 
 
             <!-- sample -->
-            <div>
+<!--             <div>
               <a data-toggle="collapse" href="#example" aria-expanded="false" aria-controls="example">
                 <h2>自由行懶人包
                 </h2>
@@ -575,7 +586,7 @@
                   </a>                  
                 </div>
               </div>  
-            </div>
+            </div> -->
           </div>
       </div>
     </article>
