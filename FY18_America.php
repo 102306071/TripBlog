@@ -174,13 +174,26 @@
             <!-- 3 Day1 -->
             <div>
               <a data-toggle="collapse" href="#day1" aria-expanded="false" aria-controls="day1">
-                <h2>Day1
+                <h2>2018/7/11 (Wed)
                 </h2>
               </a>
 
               <div class="collapse" id="day1">
                 <div class="card card-body">
-                  <p>this is a sample block</p>                  
+                  <h3>Day1</h3>
+                  Check-in
+
+
+                  Downtown
+                  <li>Gastown Vancouver Steam Clock 溫哥華蒸汽鐘</li>
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17639.56073358341!2d-123.12803770231048!3d49.285481495432435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548673e7bde5acdf%3A0x83edcdd77145500!2z5rqr5ZOl6I-v6JK45rG96ZCY!5e0!3m2!1szh-TW!2stw!4v1530699389409" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  </div>
+                  <li>Holy Rosary Cathedral 玫瑰聖母大教堂</li>
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27014.31761906135!2d-123.1307048431507!3d49.288570086217945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5486717ed3076e97%3A0xf1e573c29920d81c!2sCathedral+Of+Our+Lady+Of+The+Holy+Rosary!5e0!3m2!1szh-TW!2stw!4v1530699446285" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  </div>
+
                 </div>
               </div>  
             </div>
@@ -188,18 +201,14 @@
             <!-- 4 Day2 -->
             <div>
               <a data-toggle="collapse" href="#day2" aria-expanded="false" aria-controls="day2">
-                <h2>Day2
+                <h2>2018/7/12 (Thu)
                 </h2>
               </a>
 
               <div class="collapse" id="day2">
                 <div class="card card-body">
-                  <h3> 2018/7/12 (Thu)</h3>
+                  <h3>Day2</h3>
                   <li>16:50 抵達紐瓦克機場</li>
-<!--                   <li>離紐約最近的Outlet - Jersey Garden</li>
-                    <div class="embed-responsive embed-responsive-16by9">
-                      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24208.62465878033!2d-74.17698177922385!3d40.67224848663496!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24d80341e148b%3A0x342ea3cb57d4d522!2z5r6k6KW_6Iqx5ZyS6LO854mp5Lit5b-D!5e0!3m2!1szh-TW!2stw!4v1528526313784" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-                    </div> -->
                   <li>搭乘Air Train 轉接到紐約地鐵/公車(NY Penn Station)</li>
                     <img src="img/newark-airport-manhattan-airtrain-map.jpg" class="img-fluid" alt="Responsive image">
                     <br>
@@ -224,13 +233,13 @@
             <!-- 5 Day3 -->
             <div>
               <a data-toggle="collapse" href="#day3" aria-expanded="false" aria-controls="day3">
-                <h2>Day3
+                <h2>2018/7/13 (Fri)
                 </h2>
               </a>
 
               <div class="collapse" id="day3">
                 <div class="card card-body">
-                  <h3> 2018/7/13 (Fri)</h3>  
+                  <h3>Day3</h3>  
                   [上午]  
                   <li>自由女神 Statue of Liberty National Monument</li>   
                   地鐵4、5號線到Bowling Green站，從Battery Park搭乘渡輪（來回$18）
@@ -259,13 +268,13 @@
             <!-- 6 Day4 -->
             <div>
               <a data-toggle="collapse" href="#day4" aria-expanded="false" aria-controls="day4">
-                <h2>Day4
+                <h2>2018/7/14 (Sat)
                 </h2>
               </a>
 
               <div class="collapse" id="day4">
                 <div class="card card-body">
-                  <h3>2018/7/14 (Sat)</h3>
+                  <h3>Day4</h3>
                   <li>11:15 搭乘Megabus，前往Buffalo
                       <a href="file/MEGABUS_bookingconfirmation.pdf" target="_blank">
                         <i class="fa fa-paperclip fa-1x"></i><br>
@@ -283,6 +292,274 @@
               </div>  
             </div>
 
+            <!-- 7 Day5 -->
+            <div>
+              <a data-toggle="collapse" href="#day5" ria-expanded="false" aria-controls="day5">
+                <h2>2018/7/15 (Sun)
+                </h2>
+              </a>
+
+              <div class="collapse" id="day5">
+                <div class="card card-body">
+                  <h3>Day5</h3>
+                  <li>尼加拉瀑布一日遊</li>
+                  套票$65 <br>
+                  Hornblower Niagara Cruises <br>
+                  Journey Behind the Falls <br>
+                  Niagara's Fury <br>
+                  White Water Walk <br>
+                  Two-day WEGO Access 
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d186790.7902143957!2d-79.10944138953576!3d42.98657058787959!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x89d31245591cbf27%3A0x4b258d7041f39771!2zSG9zdGVsIEJ1ZmZhbG8tTmlhZ2FyYSA35pyIMTTml6UgLSA35pyIMTXml6U!3m2!1d42.892078999999995!2d-78.871726!4m5!1s0x89d3431928cfaf5b%3A0x237b1e4fc59ba230!2z5b2p6Jm55qmL!3m2!1d43.090159!2d-79.0676661!5e0!3m2!1szh-TW!2stw!4v1529193871598" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  </div> 
+
+                  <li>22:30 搭乘Megabus，前往New York，預計7/16 8:10抵達
+                    <a href="file/MEGABUS_bookingconfirmation.pdf" target="_blank">
+                      <i class="fa fa-paperclip fa-1x"></i><br>
+                    </a>  
+                  </li>
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13604.116938286335!2d-78.88219559663712!3d42.88588856472451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d31237f958425d%3A0x67fc1c159a319c5c!2sDowntown+Terminal%2C+Buffalo%2C+NY!5e0!3m2!1szh-TW!2stw!4v1529286514434" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  </div>
+                </div>
+              </div>  
+            </div>
+
+            <!-- 8 Day6 -->
+            <div>
+              <a data-toggle="collapse" href="#day6" aria-expanded="false" aria-controls="day6">
+                <h2>2018/7/16 (Mon)
+                </h2>
+              </a>
+
+              <div class="collapse" id="day6">
+                <div class="card card-body">
+                  <h3>Day6</h3> 
+                  
+                  <li>預計7/16 8:10抵達 New York，回Hostel放行李</li>
+                  <li>11:45 Peter Lunger Steak House <br>
+                    Reservation: Ernie Y. Wu 6179599811 
+
+                  </li>
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d24188.508833883552!2d-73.97050680030391!3d40.72762234947525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x89c25927fcd001a9%3A0x58cecc0f3f00b577!2zVGhlIExvY2FsIE5ZQywg57SQ57SE57SQ57SE5bee576O5ZyL!3m2!1d40.749595!2d-73.947825!4m5!1s0x89c25bdedbcaf647%3A0x469a1d01423a03f2!2sPeter+Luger+Steak+House%2C+178+Broadway%2C+Brooklyn%2C+NY+11211%E7%BE%8E%E5%9C%8B!3m2!1d40.709818999999996!2d-73.962467!5e0!3m2!1szh-TW!2stw!4v1530692101666" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  </div>   
+
+                  <li>下午 Soho區、雀兒喜市場</li>
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12091.561147798504!2d-74.0061439!3d40.7424396!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7e61762e972dc0a2!2z6ZuA5YWS5Zac5biC5aC0!5e0!3m2!1szh-TW!2stw!4v1530694461627" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  </div>
+                  <li>晚餐 Shake shack 漢堡 麥迪遜廣場店</li>  
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12091.561147798504!2d-74.0061439!3d40.7424396!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c258bc949d58cf%3A0x84ac8a2dc2535dc2!2sShake+Shack!5e0!3m2!1szh-TW!2stw!4v1530694483595" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  </div>                           
+                </div>
+              </div>  
+            </div>
+
+            <!-- 9 Day7 -->
+            <div>
+              <a data-toggle="collapse" href="#day7" aria-expanded="false" aria-controls="day7">
+                <h2>2018/7/17 (Tue)
+                </h2>
+              </a>
+
+              <div class="collapse" id="day7">
+                <div class="card card-body">
+                  <h3>Day7</h3> 
+                  <li>第五大道逛街</li>
+                  <li>川普大廈</li>
+                  <li>St. Patrick's Cathedral 聖巴特里爵主教座堂</li>
+                  紐約市的一座新哥德式天主教教堂，在精品商店林立的第五大道交織出古今交錯的氛圍。
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.144075020457!2d-73.976964!3d40.7588558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c258fc102f6e51%3A0x88603435e036aa5b!2z6IGW5be054m56YeM54i15Li75pWZ5bqn5aCC!5e0!3m2!1szh-TW!2stw!4v1530760912660" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  </div>
+                  晚上
+                  <li>Deloitte New York - National Office</li>
+                  <li>洛克斐勒中心Top of the Rock觀景台 $39.20</li>
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d719.7526645982778!2d-73.9794171986192!3d40.75884493420781!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c258ff31cabb7b%3A0xda17e23e0f1fc620!2sTop+of+the+Rock!5e0!3m2!1szh-TW!2stw!4v1530697168482" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  </div>                                 
+                </div>
+              </div>  
+            </div> 
+
+            <!-- 10 Day8 -->
+            <div>
+              <a data-toggle="collapse" href="#day8" aria-expanded="false" aria-controls="day8">
+                <h2>2018/7/18 (Wed)
+                </h2>
+              </a>
+
+              <div class="collapse" id="day8">
+                <div class="card card-body">
+                  <h3>Day8</h3>
+                  今天沒有行程 <br>
+                  啜一口Espresso <br>
+                  配上曼哈頓街頭的熙來人往 <br>
+                  獨享 專屬於自己的時光。
+
+                </div>
+              </div>  
+            </div> 
+
+            <!-- 11 Day9 -->
+            <div>
+              <a data-toggle="collapse" href="#day9" aria-expanded="false" aria-controls="day9">
+                <h2>2018/7/19 (Thu)
+                </h2>
+              </a>
+
+              <div class="collapse" id="day9">
+                <div class="card card-body">
+                  <h3>Day9</h3> 
+                  <li>09:00 聯合國總部大樓
+                    <p>聯合國總部位於紐約曼哈頓東區，緊鄰東河，由秘書處大樓、會議廳大樓、大會堂和哈馬捨爾德圖書館4棟建築組成。其中秘書處大樓位於中心，是聯合國總部的核心建築。雖然聯合國總部位於紐約，但其土地為國際領土，大樓前方有著近200多個旗桿，懸掛著聯合國成員國的國旗。</p>
+                  </li>
+                    <div class="embed-responsive embed-responsive-16by9">
+                      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d16288.422231012459!2d-73.98417784572773!3d40.74951221514678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2591ce0874d11%3A0xc5fae28bdd3df635!2z6IGv5ZCI5ZyL57i96YOo5aSn5qiT!5e0!3m2!1szh-TW!2stw!4v1529289658353" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    </div>
+                  <li>Grand Central Terminal 中央車站</li>
+                    <div>
+                      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6044.608028604508!2d-73.98787377385342!3d40.75533769446301!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a21fb011c85%3A0x37513b7f1821408b!2z5aSn5Lit5aSu57i956uZ!5e0!3m2!1szh-TW!2stw!4v1529290652610" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    </div>   
+                  <li>14:00 百老匯 <br>
+                    The Phantom of the Opera
+                    <a href="file/broadway.pdf" target="_blank">
+                      <i class="fa fa-paperclip fa-1x"></i><br>
+                    </a>                     
+                  </li>
+                    <div class="embed-responsive embed-responsive-16by9">
+                      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.1667819233967!2d-73.99038398474157!3d40.75835634271535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2585487856a85%3A0xa8010c390fd031f8!2z6I6K5Zq05YqH6Zmi!5e0!3m2!1szh-TW!2stw!4v1529290336936" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    </div>
+                  <li>Time Square 時代廣場</li>
+                    <div class="embed-responsive embed-responsive-16by9">
+                      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.5949736991683!2d-73.98799616600513!3d40.75819901357948!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2z5pmC5Luj5buj5aC0!5e0!3m2!1szh-TW!2stw!4v1529288591647" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    </div>
+                  <li> Nasdaq MarketSite</li>
+                    <div class="embed-responsive embed-responsive-16by9">
+                      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3353.402532382708!2d-73.98849966814763!3d40.7563936880715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25854d88524d9%3A0x7df20490e6c65497!2sNasdaq+MarketSite!5e0!3m2!1szh-TW!2stw!4v1529288918265" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    </div>                                   
+                </div>
+              </div>  
+            </div> 
+
+            <!-- 12 Day10 -->
+            <div>
+              <a data-toggle="collapse" href="#day10" aria-expanded="false" aria-controls="day10">
+                <h2>2018/7/20 (Fri)
+                </h2>
+              </a>
+
+              <div class="collapse" id="day10">
+                <div class="card card-body">
+                  <h3>Day10</h3> 
+                  早上
+                  <li>10:00 大都會博物館</li>
+
+                  下午 
+                  <li>中央公園隨意漫步</li>
+                  
+                  晚上 19:05 地鐵大戰
+                      
+                  <li>
+                    Yankee Stadium
+                      <a href="file/New York Yankees.pdf" target="_blank">
+                        <i class="fa fa-paperclip fa-1x"></i><br>
+                      </a> 
+                  </li> 
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3018.9233781358776!2d-73.9283631847395!3d40.829646638346965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2f42c5ae76971%3A0x4940c3d9559a1e08!2z5rSL5Z-66auU6IKy5aC0!5e0!3m2!1szh-TW!2stw!4v1530760760802" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  </div> 
+
+                </div>
+              </div>  
+            </div> 
+
+            <!-- 13 Day11 -->
+            <div>
+              <a data-toggle="collapse" href="#day11" aria-expanded="false" aria-controls="day11">
+                <h2>2018/7/21 (Sat)
+                </h2>
+              </a>
+
+              <div class="collapse" id="day11">
+                <div class="card card-body">
+                  <h3>Day11 </h3> 
+
+                </div>
+              </div>  
+            </div> 
+
+            <!-- 14 Day12 -->
+            <div>
+              <a data-toggle="collapse" href="#day12" aria-expanded="false" aria-controls="day12">
+                <h2>Day12
+                </h2>
+              </a>
+
+              <div class="collapse" id="day12">
+                <div class="card card-body">
+                  <h3>2018/7/22 (Sun)</h3>                  
+                </div>
+              </div>  
+            </div> 
+
+            <!-- 15 Day13 -->
+            <div>
+              <a data-toggle="collapse" href="#day13" aria-expanded="false" aria-controls="day13">
+                <h2>Day13
+                </h2>
+              </a>
+
+              <div class="collapse" id="day13">
+                <div class="card card-body">
+                  <h3>2018/7/23 (Mon)</h3>                  
+                </div>
+              </div>  
+            </div> 
+
+            <!-- 16 Day14 -->
+            <div>
+              <a data-toggle="collapse" href="#day14" aria-expanded="false" aria-controls="day14">
+                <h2>Day14
+                </h2>
+              </a>
+
+              <div class="collapse" id="day14">
+                <div class="card card-body">
+                  <h3>2018/7/24 (Tue)</h3>                  
+                </div>
+              </div>  
+            </div> 
+
+            <!-- 17 Day15 -->
+            <div>
+              <a data-toggle="collapse" href="#day15" aria-expanded="false" aria-controls="day15">
+                <h2>Day15
+                </h2>
+              </a>
+
+              <div class="collapse" id="day15">
+                <div class="card card-body">
+                  <h3>2018/7/25 (Wed)</h3>                  
+                </div>
+              </div>  
+            </div> 
+
+            <!-- 18 Day16 -->
+            <div>
+              <a data-toggle="collapse" href="#day16" aria-expanded="false" aria-controls="day16">
+                <h2>Day16
+                </h2>
+              </a>
+
+              <div class="collapse" id="day16">
+                <div class="card card-body">
+                  <h3>2018/7/26 (Thu)</h3>                  
+                </div>
+              </div>  
+            </div> 
 
             <!-- sample -->
             <div>
