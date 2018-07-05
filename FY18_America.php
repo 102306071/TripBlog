@@ -186,10 +186,11 @@
               <div class="collapse" id="day1">
                 <div class="card card-body">
                   <h3>Day1</h3>
-                  Check-in
-
-
-                  Downtown
+                  預計11:45抵達溫哥華機場 <br>  
+                  Check-in Ramada Limited Vancouver Airport 604-207-9000<br>
+                  <a href="http://www.yvr.ca/en/passengers/transportation/courtesy-shuttles">機場接送資訊</a>
+                  <br>
+                  [下午] Downtown
                   <li>Gastown Vancouver Steam Clock 溫哥華蒸汽鐘</li>
                   <div class="embed-responsive embed-responsive-16by9">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17639.56073358341!2d-123.12803770231048!3d49.285481495432435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548673e7bde5acdf%3A0x83edcdd77145500!2z5rqr5ZOl6I-v6JK45rG96ZCY!5e0!3m2!1szh-TW!2stw!4v1530699389409" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -511,7 +512,7 @@
               <div class="collapse" id="day12">
                 <div class="card card-body">
                   <h3>Day12</h3>
-                                    
+
                 </div>
               </div>  
             </div> 
