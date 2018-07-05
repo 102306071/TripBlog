@@ -492,11 +492,15 @@
               <div class="collapse" id="day11">
                 <div class="card card-body">
                   <h3>Day11 </h3>
-                  <li>12:40 搭乘Megabus，前往Boston
+                  <li>12:40 搭乘Megabus，前往Boston，預計16:55抵達
                       <a href="file/MEGABUS_bookingconfirmation_Boston.pdf" target="_blank">
                         <i class="fa fa-paperclip fa-1x"></i><br>
                       </a>                    
                   </li> 
+                  Check-in Hi Boston Hostel <br>
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2948.564711939919!2d-71.06146748469577!3d42.351802993615834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x89e37081fa252f27%3A0xa620df45f1c1057d!2sSouth+Station%2C+700+Atlantic+Ave+%232%2C+Boston%2C+MA+02110%E7%BE%8E%E5%9C%8B!3m2!1d42.3519404!2d-71.0550798!4m5!1s0x89e37a1b1a833ea1%3A0x82e3d529a9b89dd1!2zSEkgQm9zdG9uIEhvc3RlbCwgU3R1YXJ0IFN0cmVldCwg5rOi5aOr6aCT6bq76Jap6Ku45aGe5bee576O5ZyL!3m2!1d42.351216!2d-71.0634544!5e0!3m2!1szh-TW!2stw!4v1530777285399" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  </div>
 
                 </div>
               </div>  
@@ -548,13 +552,22 @@
             <!-- 17 Day15 -->
             <div>
               <a data-toggle="collapse" href="#day15" aria-expanded="false" aria-controls="day15">
-                <h2>Day15
+                <h2>2018/7/25 (Wed)
                 </h2>
               </a>
 
               <div class="collapse" id="day15">
                 <div class="card card-body">
-                  <h3>2018/7/25 (Wed)</h3>                  
+                  <h3>Day15</h3>
+                  <li>Wrentham Village Premium Outlets</li>
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11852.933168793335!2d-71.3524352!3d42.0381775!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xacbac0b2cfc60c9b!2z5YCr55Gf5aeG5ZCN54mM5oqY5omj6LO854mp5Lit5b-D!5e0!3m2!1szh-TW!2stw!4v1530777440232" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  </div>
+                  <a href="http://www.bostoncommoncoach.com/schedules.php">交通資訊：(需提早12小時網路預約) </a> <br>
+                    搭車地點 Revere Hotel 9:50 - 10:00am <br>
+                    回程 5:00pm <br>
+                  <a href="http://www.bostoncommoncoach.com/reservations1.php">12-hour advanced reservations are required online or by calling 617 773 2784   </a> 
+
                 </div>
               </div>  
             </div> 
