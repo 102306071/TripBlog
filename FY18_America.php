@@ -163,9 +163,23 @@
                           </td>
                           <td>1 room |  5 night <br> 
                             現場支付 US$292.49 + $15
-                            <a href="file/住宿_0711.pdf" target="_blank">
+                            <a href="file/住宿_0721.pdf" target="_blank">
                               <i class="fa fa-paperclip fa-1x"></i><br>
                             </a> </td>
+                        </tr>
+                        <tr>
+                          <th scope="row">2018/7/26 ~ 2018/7/27</th>
+                          <td>Ramada Limited Vancouver Airport</td>
+                          <td>
+                            <a href="https://goo.gl/maps/DTbSj8TLM5J2" target="_blank">
+                            7188 Westminster Hwy, Richmond, BC, V6X1A1 Canada
+                            </a>
+                          </td>
+                          <td>1 room |  1 night
+                            <a href="file/住宿_0726.pdf" target="_blank">
+                              <i class="fa fa-paperclip fa-1x"></i><br>
+                            </a>
+                          </td>
                         </tr>
 
                       </tbody>
@@ -188,7 +202,7 @@
                   <h3>Day1</h3>
                   預計11:45抵達溫哥華機場 <br>  
                   Check-in Ramada Limited Vancouver Airport 604-207-9000<br>
-                  <a href="http://www.yvr.ca/en/passengers/transportation/courtesy-shuttles">機場接送資訊</a>
+                  <a href="http://www.yvr.ca/en/passengers/transportation/courtesy-shuttles" target="_blank">機場接送資訊</a>
                   <br>
                   [下午] Downtown
                   <li>Gastown Vancouver Steam Clock 溫哥華蒸汽鐘</li>
@@ -516,6 +530,15 @@
               <div class="collapse" id="day12">
                 <div class="card card-body">
                   <h3>Day12</h3>
+                  與老朋友久違的見面
+                  <li>Boston University</li>
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9810.201925941421!2d-71.09901824921009!3d42.347293442441284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e379f063e53817%3A0x2b346e00e0a3bec8!2z5rOi5aOr6aCT5aSn5a24!5e0!3m2!1szh-TW!2stw!4v1530902352540" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  </div>
+                  <li>Fenway Park 芬威球場</li>
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4905.784053775149!2d-71.1205169!3d42.3748322!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e377427d7f0199%3A0x5937c65cee2427f0!2z5ZOI5L2b5aSn5a24!5e0!3m2!1szh-TW!2stw!4v1530902052789" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  </div>
 
                 </div>
               </div>  
@@ -524,13 +547,21 @@
             <!-- 15 Day13 -->
             <div>
               <a data-toggle="collapse" href="#day13" aria-expanded="false" aria-controls="day13">
-                <h2>Day13
+                <h2>2018/7/23 (Mon)
                 </h2>
               </a>
 
               <div class="collapse" id="day13">
                 <div class="card card-body">
-                  <h3>2018/7/23 (Mon)</h3>                  
+                  <h3>Day13</h3>
+                  <li>MIT</li>
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d34309.65056640216!2d-71.11296726678246!3d42.36500177532037!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e370aaf51a6a87%3A0xd0e08ea5b308203c!2z6bq755yB55CG5bel5a246Zmi!5e0!3m2!1szh-TW!2stw!4v1530901885824" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  </div> 
+                  <li>Harvard University</li> 
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4905.784053775149!2d-71.1205169!3d42.3748322!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e377427d7f0199%3A0x5937c65cee2427f0!2z5ZOI5L2b5aSn5a24!5e0!3m2!1szh-TW!2stw!4v1530902052789" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  </div>                
                 </div>
               </div>  
             </div> 
@@ -538,13 +569,28 @@
             <!-- 16 Day14 -->
             <div>
               <a data-toggle="collapse" href="#day14" aria-expanded="false" aria-controls="day14">
-                <h2>Day14
+                <h2>2018/7/24 (Tue)
                 </h2>
               </a>
 
               <div class="collapse" id="day14">
                 <div class="card card-body">
-                  <h3>2018/7/24 (Tue)</h3>                  
+                  <h3>Day14</h3>
+                  <li>Boston Common 波士頓花園</li>
+                  <li>Boston Public Garden 波士頓公共花園</li>
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5154.294122654847!2d-71.06987040217248!3d42.354898815678574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e3709e822b60bb%3A0xcbd77f0b5e16e701!2z5rOi5aOr6aCT5YWs5YWx6Iqx5ZyS!5e0!3m2!1szh-TW!2stw!4v1530902772240" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  </div>  
+                  <li>TD Garden</li>
+                  <div class="embed-responsive embed-responsive-16by9"> 
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23983.56262873766!2d-71.08026078759282!3d42.360742201039145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e3708e162d05cb%3A0x32d335fe5ed797a8!2zVEToirHlnJI!5e0!3m2!1szh-TW!2stw!4v1530902695274" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  </div>  
+                  <li>Quincy Market 昆西市場</li>  
+                  [晚餐]Neptune Oyster <br>
+                  Lobster Roll龍蝦三明治 (US$ 25) 
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9695.155634719324!2d-71.05760327043036!3d42.36264156970751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e3708f2de4ee09%3A0x3bf3e0fd562f98e7!2sNeptune+Oyster!5e0!3m2!1szh-TW!2stw!4v1530983649824" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  </div>           
                 </div>
               </div>  
             </div> 
@@ -563,10 +609,10 @@
                   <div class="embed-responsive embed-responsive-16by9">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11852.933168793335!2d-71.3524352!3d42.0381775!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xacbac0b2cfc60c9b!2z5YCr55Gf5aeG5ZCN54mM5oqY5omj6LO854mp5Lit5b-D!5e0!3m2!1szh-TW!2stw!4v1530777440232" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                   </div>
-                  <a href="http://www.bostoncommoncoach.com/schedules.php">交通資訊：(需提早12小時網路預約) </a> <br>
+                  <a href="http://www.bostoncommoncoach.com/schedules.php" target="_blank">交通資訊：(需提早12小時網路預約) </a> <br>
                     搭車地點 Revere Hotel 9:50 - 10:00am <br>
                     回程 5:00pm <br>
-                  <a href="http://www.bostoncommoncoach.com/reservations1.php">12-hour advanced reservations are required online or by calling 617 773 2784   </a> 
+                  <a href="http://www.bostoncommoncoach.com/reservations1.php" target="_blank">12-hour advanced reservations are required online or by calling 617 773 2784   </a> 
 
                 </div>
               </div>  
@@ -575,13 +621,18 @@
             <!-- 18 Day16 -->
             <div>
               <a data-toggle="collapse" href="#day16" aria-expanded="false" aria-controls="day16">
-                <h2>Day16
+                <h2>2018/7/26 (Thu)
                 </h2>
               </a>
 
               <div class="collapse" id="day16">
                 <div class="card card-body">
-                  <h3>2018/7/26 (Thu)</h3>                  
+                  <h3>Day16</h3> 
+                  <li>航班: 18:05 <br>
+                  </li>
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28259.79295536537!2d-71.04942594519326!3d42.35909109559356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37014d5da4937%3A0xc9394c31f2d5144!2z5oSb5b636I-vwrfli57lgKvmlq_Ct-a0m-agueWwh-i7jeWci-mam-apn-WgtA!5e0!3m2!1szh-TW!2stw!4v1530984502778" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  </div>                 
                 </div>
               </div>  
             </div> 
